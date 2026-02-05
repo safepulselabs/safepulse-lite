@@ -1,2 +1,171 @@
-# sadepulse-lite
-safepulse lite dapp
+
+<div align="center">
+
+<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="SafePulse Logo" width="120"/>
+
+# SafePulse Lite 
+
+### Non-Custodial On-Chain Agreement Infrastructure
+
+![License](https://img.shields.io/badge/license-proprietary-red)
+![Status](https://img.shields.io/badge/status-beta-yellow)
+![Network](https://img.shields.io/badge/network-Polygon-8247e5)
+![Network](https://img.shields.io/badge/network-Arbitrum-28a0f0)
+![Identity](https://img.shields.io/badge/DID-W3C_Compliant-blue)
+![Payments](https://img.shields.io/badge/Payments-Trustless_Escrow-green)
+![Web3](https://img.shields.io/badge/Protocol-Web3_Ready-purple)
+
+---
+
+<a href="https://app.safepulse.xyz">
+  <img src="https://img.shields.io/badge/🌐%20Access-Web_dApp-blue?style=for-the-badge&logo=web" alt="Access Web dApp Beta">
+</a>
+
+</div>
+
+---
+<div align="center">
+  
+![Telegram](https://img.shields.io/badge/Telegram-@safepulseapp-0088cc?logo=telegram&logoColor=white)
+![Website](https://img.shields.io/badge/Website-safepulse.xyz-4caf50?logo=internet-explorer&logoColor=white)
+![X (Twitter)](https://img.shields.io/badge/X-@safepulse_dapp-1da1f2?logo=twitter&logoColor=white)
+
+</div>
+
+---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Features](#features)
+4. [Security](#security)
+5. [Requirements](#requirements)
+6. [Supported Languages](#supported-languages)
+7. [Documentation & More Info](#documentation--more-info)
+8. [License](#license)
+9. [Contact](#contact)
+
+---
+
+## Introduction
+
+**SafePulse** is the permissined ecosystem, a sovereign onchain agreement acosystem and an safe place for Enterprise-Grade Transactions.
+      
+This permissioned but non-custodial infrastructure converges decentralized identity, tamper-proof document verification, and non-custodial smart contracts to replace intermediary-dependent processes with immutable, executable logic.
+
+Within this environment, financial obligations are bound directly to verifiable actions. Onchain digital signatures autonomously control the flow of capital through P2P escrow and payments, ensuring execution is contingent solely upon cryptographically proven performance.
+
+The result is a closed-loop system that eliminates disputes by design, providing a court-admissible record of truth and establishing a new paradigm of operational integrity.
+
+---
+
+## Mission and Vision
+
+Our mission is to build a world where individuals and organizations have **complete sovereignty** over their assets, data, and digital identity—empowering them to engage in **trustless, borderless agreements** without dependence on intermediaries.
+
+We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, SafePulse redefines how people transact, verify, and trust—onchain and on their own terms.
+
+---
+
+## SafePulse Lite: The Secure Gateway to the ContractFoundry Ecosystem
+
+SafePulse Lite is the official, non-custodial interface for the Contract Foundry ecosystem, engineered to provide users with direct and sovereign control over their onchain agreements and assets. It functions as the primary command center for interacting with ecosystem smart contracts, enabling the management of digital identity, the execution of legally-binding document signatures, and the autonomous control of financial obligations and subscriptions.
+
+Architected with security as its foundation, the Lite ensures all cryptographic operations from private key management to transaction and document signing are processed locally on the user's device. Private keys are secured within a multi-encryption-layered local database and never leave the client environment. Developed according to stringent secure coding principles, this design eliminates central points of failure, guaranteeing that users retain absolute, non-custodial control over their data and funds while engaging with the enterprise-grade capabilities of the Contract Foundry.
+
+---
+
+## Services
+
+| Service | Description |
+|----------|--------------|
+| **Escrow** | Arbiterless non-custodial escrow with flat deposit and minimal withdrawal fee. |
+| **Pledge Contracts** | Advanced progressive P2P payment, revocation, and document binding. |
+| **Verifiable Documents** | Secure, Lite-first, revocable documents with onchain proof. |
+| **Document Registry** | Lightweight public registry for timestamped document proofs. |
+| **DID (Decentralized Identity)** | Lightweight self-sovereign identity (ERC-1056 compliant). |
+| **Verifiable Credentials** | W3C-compliant credentials with selective disclosure. |
+| **Asset Paywall** | Token-gated file distribution via onchain payment contracts. |
+
+---
+
+## Overview
+
+This repository is dedicated to **Setup guide**.
+All source code is **closed-source and proprietary**.
+
+---
+
+## Features
+
+SafePulse provides comprehensive decentralized application and Lite functionalities:
+
+* Managing **PULSE tokens**
+* Issue contracts and create/manage/handle contracts
+* Issue and manage **DIDs** and DID Documents (W3C DID compliance)
+* Issue, manage, and verify **Verifiable Credentials (VCs)** (W3C VC compliance)
+* Document verification
+* Managing **private keys** (non-custodial Lite)
+* Handling **contract DIDs**
+* Deposit and manage escrow and payments (all non-custodial)
+* Managing transactions
+* Biometric authentication
+* **DID and address book** management
+* Export, import, and load credentials and DIDs
+* Handling **Elysian accounts** (premium features)
+
+---
+
+## Security
+
+* All keys and contract-related data are stored locally in **encrypted storage**
+* **Private keys never leave the device**
+* No third-party services are used except:
+
+  * Firebase Analytics (for performance monitoring)
+* Reporting vulnerabilities:
+
+  * Email: `security@safepulse.xyz`
+  * Or open an issue in this repository
+
+---
+
+## Requirements
+
+* WASM supported browser 
+* Injected wallet: MetMask or Trustwallet etc.
+
+---
+
+## Supported Languages
+
+* Farsi
+* Arabic
+* English
+* French
+* Chinese
+* Portuguese
+* Russian
+* Turkish
+* Spanish
+
+---
+
+## Documentation & More Info
+
+![Website](https://img.shields.io/badge/Website-safepulse.xyz-4caf50?logo=internet-explorer&logoColor=white)
+
+---
+
+## License
+
+Copyright © SafePulse. All Rights Reserved.Patent pending.
+
+---
+
+## Contact
+
+* Email: `info@safepulse.xyz`
+
+---
