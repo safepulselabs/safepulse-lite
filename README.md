@@ -28,7 +28,7 @@
   
 ![Telegram](https://img.shields.io/badge/Telegram-@safepulseapp-0088cc?logo=telegram&logoColor=white)
 ![Website](https://img.shields.io/badge/Website-safepulse.xyz-4caf50?logo=internet-explorer&logoColor=white)
-![X (Twitter)](https://img.shields.io/badge/X-@safepulse_dapp-1da1f2?logo=twitter&logoColor=white)
+![X (Twitter)](https://img.shields.io/badge/X-@safepulsexyz-1da1f2?logo=twitter&logoColor=white)
 
 </div>
 
