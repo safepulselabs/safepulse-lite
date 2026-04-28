@@ -164,6 +164,6 @@ Copyright © SafePulse. All Rights Reserved.Patent pending.
 
 ## Contact
 
-* Email: `info@safepulse.xyz`
+* Email: `support@safepulse.xyz`
 
 ---
