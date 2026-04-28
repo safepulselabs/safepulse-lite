@@ -143,11 +143,9 @@ SafePulse provides comprehensive decentralized application and Lite functionalit
 * Farsi
 * Arabic
 * English
-* French
 * Chinese
 * Portuguese
 * Russian
-* Turkish
 * Spanish
 
 ---
